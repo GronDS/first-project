@@ -79,8 +79,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -146,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Командная строка.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Командная строка.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Командная строка.md"
+                "file": "README.md"
               }
             }
           }
@@ -207,14 +206,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e9cd223011b5ebd6",
+  "active": "258cf9aaa9d175e2",
   "lastOpenFiles": [
     "Git. Локальный и удаленный репозиторий.md",
+    "README.md",
     "SSH.md",
     "Git. Репозиторий.md",
     "Git. Установка, настройка.md",
     "Командная строка.md",
-    "README.md",
     "Командная.md",
     "'Командная.md",
     "img/Homebrew.png",
