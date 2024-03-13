@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git. Установка, настройка.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git. Установка, настройка.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git. Установка, настройка.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git. Установка, настройка.md"
+                "file": "README.md"
               }
             }
           }
@@ -148,12 +148,13 @@
   },
   "active": "da9a61db651ecce3",
   "lastOpenFiles": [
+    "'Командная.md",
+    "README.md",
+    "Git. Установка, настройка.md",
     "Git. Репозиторий.md",
     "Git. Локальный и удаленный репозиторий.md",
-    "Git. Установка, настройка.md",
     "img/Homebrew.png",
     "img",
-    "Командная строка.md",
-    "README.md"
+    "Командная строка.md"
   ]
 }
