@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a64591ed58b43000",
+        "id": "f27105709c5f9c69",
         "type": "tabs",
         "children": [
           {
-            "id": "da9a61db651ecce3",
+            "id": "258cf9aaa9d175e2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -146,15 +146,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "da9a61db651ecce3",
+  "active": "258cf9aaa9d175e2",
   "lastOpenFiles": [
-    "'Командная.md",
+    "Командная строка.md",
+    "Командная.md",
     "README.md",
+    "Git. Локальный и удаленный репозиторий.md",
+    "'Командная.md",
     "Git. Установка, настройка.md",
     "Git. Репозиторий.md",
-    "Git. Локальный и удаленный репозиторий.md",
     "img/Homebrew.png",
-    "img",
-    "Командная строка.md"
+    "img"
   ]
 }
