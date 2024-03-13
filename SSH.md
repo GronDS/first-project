@@ -128,5 +128,3 @@ The authenticity of host 'github.com (140.82.121.4)' can't be established. ED255
 ```BASH
 Hi %ВАШ_АККАУНТ%! You've successfully authenticated, but GitHub does not provide shell access. 
 ```
-### ‌
-[[SSH]] [[Git]]

@@ -71,5 +71,3 @@ $ git config --list
 user.name=Username
 user.email=username@email.ru
 ```
-## ‌
-[[Git]]
